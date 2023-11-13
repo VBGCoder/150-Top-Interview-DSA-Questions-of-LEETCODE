@@ -1,2 +1,4 @@
 # 150-Top-Interview-DSA-Questions-of-LEETCODE
-150 DSA Questions for Technical Interview
+
+TOPICS are:-
+1. Array / String
